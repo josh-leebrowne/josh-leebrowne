@@ -1,6 +1,5 @@
 - 👋 @josh-leebrowne
-- 👀 I’m interested in: Software Development
-- 🌱 I’m currently learning: Full Stack Development
+- 🌱 A.S. in Full-Stack Web Dev (2023)
 - 📫 How to reach me: josh.lv.lee@gmail.com
 
 
